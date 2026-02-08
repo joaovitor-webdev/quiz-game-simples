@@ -9,7 +9,7 @@ Aplicação web interativa que apresenta questões de múltipla escolha e calcul
 ![Screenshot](./screenshot.png)
 
 ### Demo
-Acesse a demo ao vivo aqui: [Link para Demo](https://quizgamesimples.netlify.app)
+Acesse a demo ao vivo aqui: [Link para Demo](https://quiz-game-simples.vercel.app)
 
 ## Tecnologias
 - HTML5
@@ -36,5 +36,5 @@ Este projeto não possui package.json nem scripts de npm/yarn; é um app estáti
 ## Autor
 - Nome: João Vitor - Web Dev
 - GitHub: https://github.com/joaovitor-webdev
-- Portfólio: https://joaovitor-webdev.netlify.app
+- Portfólio: https://joaovitor-webdev.vercel.app
 - Inspiração: @burakorkmez
